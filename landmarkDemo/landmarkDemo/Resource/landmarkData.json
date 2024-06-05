@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Mahabaleshwar",
+        "category": "Rivers",
+        "city": "Mahabaleshwar",
+        "state": "Maharashtra",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "The land of Strawberries",
+        "coordinates": {
+            "longitude": 73.6477,
+            "latitude": 17.9307
+        },
+        "description": "Mahabaleshwar Tourism Mahabaleshwar is a hill station located in the Western Ghats, in Satara district of Maharashtra. Apart from its strawberries, Mahabaleshwar is also well known for its numerous rivers, magnificent cascades and majestic peaks. It is among the most sought after weekend getaways from Pune & Mumbai, located about 120km south-west of Pune and 285km from Mumbai. Mahabaleshwar is also a sacred pilgrimage place for Hindus as the Krishna river originates from here. Once a summer capital of the British, the hill station of Mahabaleshwar comprises of ancient temples, boarding schools, manicured and lush green dense forest, waterfalls, hills, valleys. It is often used as a base to visit the magnificent Pratapgad Fort, located an hour away. Malcolm Peth, Old Kshetra Mahabaleshwar and a region of the Shindola village are the three villages that make up Mahabaleshwar.",
+        "imageName": "mahabaleshwar"
+    },
+    {
+        "name": "Shirdi",
+        "category": "Pilgrimage",
+        "city": "Shirdi",
+        "state": "Maharashtra",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "The land of Sai Baba",
+        "coordinates": {
+            "longitude": 74.4762,
+            "latitude": 19.7645
+        },
+        "description": "Shirdi Tourism Located at a distance of 122 Km from Nasik in the Ahmednagar district of Maharashtra, Shirdi is the home of Sai Baba. It is believed that Sai Baba arrived at Shirdi in 1858 and spent 60 years of his life here until he attained salvation in 1918. Sai Baba is popularly known as the 'child of God', as he always spread the message of universal brotherhood. Apart from his shrine, there are many small temples in the complex, such as Chavadi, Samadhi Mandir, Dwarkamai. Shani Shignapur is located at a distance of 72km from Shirdi.",
+        "imageName": "shirdi"
+    },
+    {
+        "name": "Lonavla",
+        "category": "Mountains",
+        "city": "Lonavla",
+        "state": "Maharashtra",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Misty Weekend Getaway",
+        "coordinates": {
+            "longitude": 73.4091,
+            "latitude": 18.7557
+        },
+        "description": "Situated in the Sahyadri range of the Western Ghats close to Pune and Mumbai, Lonavala is the most visited hill station in Maharashtra and the place to be during monsoons. With lots of waterfalls, lakes and hills around, it is a popular destination for camping, trekking and other adventure sport. Surrounded by dense forests, waterfalls, and dam alongside lakes, it is a must-visit if you admire nature. Located at an elevation of 624 m above sea level, Lonavala is one of the twin hill stations - Lonavala and Khandala (these two can be easily visited together). The popular tourist attractions in Lonavala are Bhaja caves, Bushi dam, Karla caves, Rajmachi fort, Ryewood lake, among others. Lonavala is also popular for the treks like the Andharban trek that starts from a village called Pimpri and ends in Bhira. Lonavala is famous for its production of the hard candy chikki which is a sweet eatable thing made from different nuts mixed with jaggery. It is also a major stop on the railway line which connects Mumbai and Pune.",
+        "imageName": "lonavla"
+    },
+    {
+        "name": "Alibaug",
+        "category": "Beaches",
+        "city": "Alibaug",
+        "state": "Maharashtra",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Coconut groves and Sandy Beaches",
+        "coordinates": {
+            "longitude": 72.8773,
+            "latitude": 18.6584
+        },
+        "description": "Alibaug (also spelled as Alibag) is a small coastal town in the Konkan region of Maharashtra, known for its beaches, villas, and beautiful scenery. Alibag is very popular as a weekend getaway from the cities of Mumbai and Pune. Water sports in Alibaug like parasailing, banana boat and jet ski and speed boating are quite popular during the dry season. Most tourist families spend at least one night in Alibag with extending to multiple nights. Alibaug has earned itself the name of 'mini-Goa', owing to the high tourist footfall all year round. Steeped in colonial history, Alibaug is a quaint little town located about 96 km from Mumbai and 150 km from Pune, and is replete with sandy beaches, clean unpolluted air, and plenty of forts and temples, ensuring that despite being a small town, you never run out of activities to do. Alibaug is famous for its numerous beaches, which are only a few minutes’ drive away from each other, so you won’t have to worry about which beach to visit and which one to leave out. The most visited beach in Alibaug is, of course, Alibaug Beach, which offers a spectacular of view of not only the sunrise and sunset but of the Kolaba Fort as well, which you can take a short boat ride to. The Colaba fort was once the cornerstone of the Maratha Empire, and most of the edifice is still in good shape. Other popular beaches in the area include Kihim Beach, and Nagaon Beach, with Kihim beach being a photographer’s paradise. Alibaug is also home to Mandwa Beach, a beach famously known for the innumerable number of movie shootings that take place here. The beach offers a stunning view of the Gateway of India from its bay, and you can sit and sip on a cool drink on the sand under the orchard of coconut trees lining the beach.",
+        "imageName": "alibaug"
+    },
+    {
+        "name": "Nashik",
+        "category": "Lakes",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Of Wines and Vineyards",
+        "coordinates": {
+            "longitude": 73.7898,
+            "latitude": 19.9975
+        },
+        "description": "Nasik is a religious Hindu city, host to the Kumbh Mela every 12 years. It also makes for a perfect wine tasting destination. Nashik (Nasik), named after a relic associated with Ramayana, is a city in Maharashtra located on the banks of river Godavari. Nashik plays host to the famous Kumbh Mela every 12 years. The city is home to plenty of exotic temples and is known in Hindu mythology as the place where Ravana's sister, Surpanakha, tried to seduce Lord Ram and got her nose cut off by Lakshman in the process. Its religious importance doesn't end there. It also plays host to the thousands of tourists visiting Shirdi and Trimbakeshwar. Apart from its temples, Nashik also has forts, waterfalls and vineyards to look out for. With multiple vineyards present in Nashik, the most popular being Sula, the wine-tourism industry is mushrooming in this part of Maharashtra. Nashik gives you the chance to experience a fabulous cocktail of extremes - from temples to vineyards, hills to waterfalls, this place offers a lot to see.",
+        "imageName": "nashik"
+    },
+    {
+        "name": "Ganpatipule",
+        "category": "Beaches",
+        "city": "Ganpatipule",
+        "state": "Maharashtra",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Gateway to Beaches, Religion, and History",
+        "coordinates": {
+            "longitude": 73.2632,
+            "latitude": 17.1473
+        },
+        "description": "Ganpatipule Tourism A little village with a series of beaches, Ganpatipule is the ideal beach destination away from the hustle-bustle of city life. The Ganpatipule Beach with its clear blue water and scenic natural beauty makes for a perfect getaway for peace-seekers as well as adventure enthusiasts. Among the many beaches, Ganpatipule Beach is the most popular one while the Aare Ware beach is the most serene and tranquil. Ganpatipule is also known for its 400-year-old Ganesha temple which sees a large number of pilgrims every year. Besides, there are a number of water sports activities for tourists to indulge in and resorts to just sit back and relax. Ganpatipule is famous for the 400-year-old Ganesha temple which is frequented by many pilgrims every year. The idol of Ganesha is said to be self-manifested and is made of pule (white sand).",
+        "imageName": "ganpatipule"
+    },
+    {
+        "name": "Dagdusheth Halwai Ganapti Mandir",
+        "category": "Hill Stations",
+        "city": "Matheran",
+        "state": "Maharashtra",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Famous place in Pune",
+        "coordinates": {
+            "longitude": 18.5164,
+            "latitude": 73.8561
+        },
+        "description": "The Dagadusheth Halwai Ganapati temple is a Hindu Temple located in Pune and is dedicated to the Hindu god Ganesh. The temple is visited by over hundred thousand pilgrims every year.[1][2] Devotees of the temple include celebrities and chief ministers of Maharashtra who visit during the annual ten-day Ganeshotsav festival.[3] The main Ganesh idol is insured for sum of ₹10 million (US$120,000).[4] It celebrated 130 years of its Ganapati in 2022. Shrimant Dagadusheth Halwai and his wife Laxmibai was a trader and sweet maker settled in Pune. His original halwai shop still exists under the name Dagdusheth Halwai Sweets near Datta Mandir in Pune. Eventually he became a successful sweet seller and a rich businessman. In the later 1800s, they lost their only son in a plague epidemic. They were approached by a compassionate sage who advised them to build a Ganesha temple in Pune.[6]Later, as they did not have any heir, Dagdusheth adopted his nephew Govindsheth (born 1865) who was 9 years old at the time of their death. Govindsheth was born in 1891 in Pune. He replaced the first Ganesh idol by a new one, with the first one still being present at Akra Maruti Chowk. A kind-hearted and generous man, he established one more Ganesh idol in wrestlers training center, which is called Jagoba Dada Talim. This talim was owned by Dagdusheth as he was also a former wrestling trainer. One of the chowk (area) in Pune is named Govind Halwai Chowk, after him. Along with his mother, Govindsheth handled all the programmes like Ganesh Utsav, Datta Jayanti and other festivities. The residence where they resided is now known as Laxmibai Dagdusheth Halwai Sansthan Datta Mandir Trust. Laxmi Road in Pune is named after Laxmibai Dagdusheth halwai. Govindsheth died in 1943. His son Dattatray Govindsheth Halwai, born in 1926, was the one who established the third Ganesh idol replacing the second. This idol, known as Navasacha Ganpati, is the one that is present today in the Dagdusheth temple. It proved to be an epoch-making event in Indian history.",
+        "imageName": "bappa 1"
+    },
+    {
+        "name": "Taj Mahal",
+        "category": "Heritage",
+        "city": "Agra",
+        "state": "Uttar Pradesh",
+        "id": 1008,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "The epitome of love",
+        "coordinates": {
+            "longitude": 78.0421,
+            "latitude": 27.1751
+        },
+        "description": "Taj Mahal Tourism The Taj Mahal is a white marble mausoleum built by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal. Located on the banks of river Yamuna in Agra, Uttar Pradesh, it is one of the Seven Wonders of the World and is a UNESCO World Heritage Site. The Taj Mahal is widely recognized as 'the jewel of Muslim art in India'. The beauty of the Taj Mahal is such that it is beyond the scope of words. The monument is known for its stunning architecture and intricate designs, with the reflection of the white marble changing color depending on the light and time of the day. The Taj Mahal attracts millions of tourists from all over the world every year and is an integral part of India’s tourism.",
+        "imageName": "taj"
+    },
+    {
+        "name": "Beaches of Goa",
+        "category": "Beaches",
+        "city": "Goa",
+        "state": "Goa",
+        "id": 1009,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "The Party Capital of India",
+        "coordinates": {
+            "longitude": 73.8567,
+            "latitude": 15.2993
+        },
+        "description": "Goa Tourism Goa is India's smallest state known for its endless beaches, stellar nightlife, eclectic seafood, and Portuguese heritage. Goa is a popular tourist destination all year round. The peak tourist season in Goa is during the winter months from November to February when the weather is perfect for beach activities and sightseeing. The beaches of North Goa are popular for their party ambiance, while the beaches of South Goa are more serene and less crowded. Some of the famous beaches in Goa are Baga Beach, Calangute Beach, Anjuna Beach, Colva Beach, and Palolem Beach. Apart from the beaches, Goa is also famous for its Portuguese architecture, with numerous churches and old buildings reflecting the colonial past.",
+        "imageName": "goa"
+    }
+]
